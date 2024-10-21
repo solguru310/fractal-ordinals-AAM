@@ -18,8 +18,8 @@ This is an Automatic market maker for Ordinal Marketplace built on the Fractal B
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/leionion/fractal-ordinal-market-AMM.git
-    cd fractal-ordinal-market-AMM
+    git clone https://github.com/solguru310/fractal-ordinal-AMM.git
+    cd fractal-ordinalt-AMM
     ```
 2. Install project dependencies:
     ```bash
@@ -29,7 +29,7 @@ This is an Automatic market maker for Ordinal Marketplace built on the Fractal B
     ```plaintext
     NETWORKTYPE=TESTNET
     PORT=3000
-    MONGODB_URI=mongodb://localhost:27017/fractal-ordinal-market-AMM
+    MONGODB_URI=mongodb://localhost:27017/fractal-ordinal-AMM
     ```
 4. Launch the server:
     ```bash
@@ -76,9 +76,13 @@ Once the server is started, access the server on the specified port (default: 30
 
 - Integrated MongoDB schema design to support listing and offer operations, ensuring efficient database interactions.
 
-## Contact Info
-This is initial Version. I just published initial version for basic functionality for automatic market maker model backend.
+## Contact me
 If you need more technical support and development inquires, you can contact below.
 
-- **Twitter:** [@chain_sats](https://x.com/chain_sats/)
-- **Telegram:** [@inscNix](https://t.me/inscNix/)
+Telegram: [@dwlee918](https://t.me/@dwlee918)
+
+X: [@derricklee918](https://x.com/derricklee918)
+
+Discord: [@solGuru](https://discordapp.com/users/352387576017190913)
+
+Thanks.
